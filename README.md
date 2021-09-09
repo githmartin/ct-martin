@@ -25,6 +25,7 @@ Maquetación:
 - Usé propiedades de flex para header, footer y cards
 - Componente table (responsive) de BS para la tabla
 - Componente 'dropdawn' para user login
+- style.css propio para propiedades puntuales
 
 Repo:
 https://github.com/githmartin/ct-martin
