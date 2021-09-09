@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{
+    font-size: 62.5%;
+}
+.container {
+    max-width: 1150px;
+}
+.navbar-brand {
+    font-family: 'Russo One', sans-serif;
+    font-size: 28px;
+}
+.dropdown-toggle::after {
+    border: none!important;
+    font: normal normal normal .7rem FontAwesome;
+    margin-left: 1rem;
+    content: "\f078"!important; /* the desired FontAwesome icon */
+    vertical-align: middle;
+    color: var(--bs-gray-600)
+}
+.rrss {
+    color: var(--bs-gray-300);
+}
+.card {
+    width: 214px;
+}
+.card-link {
+    margin-top: 3rem;
+}
